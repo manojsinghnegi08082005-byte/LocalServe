@@ -1,0 +1,12 @@
+<datalist id="stateList">
+<option value="Andaman and Nicobar Islands"><option value="Andhra Pradesh"><option value="Arunachal Pradesh">
+<option value="Assam"><option value="Bihar"><option value="Chandigarh"><option value="Chhattisgarh">
+<option value="Dadra and Nagar Haveli and Daman and Diu"><option value="Delhi"><option value="Goa">
+<option value="Gujarat"><option value="Haryana"><option value="Himachal Pradesh"><option value="Jammu and Kashmir">
+<option value="Jharkhand"><option value="Karnataka"><option value="Kerala"><option value="Ladakh">
+<option value="Lakshadweep"><option value="Madhya Pradesh"><option value="Maharashtra"><option value="Manipur">
+<option value="Meghalaya"><option value="Mizoram"><option value="Nagaland"><option value="Odisha">
+<option value="Puducherry"><option value="Punjab"><option value="Rajasthan"><option value="Sikkim">
+<option value="Tamil Nadu"><option value="Telangana"><option value="Tripura"><option value="Uttar Pradesh">
+<option value="Uttarakhand"><option value="West Bengal">
+</datalist>
